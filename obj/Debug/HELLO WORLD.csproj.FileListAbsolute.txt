@@ -7,4 +7,10 @@ C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WOR
 C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\HELLO WORLD.csproj.CoreCompileInputs.cache
 C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\HELLO WORLD.exe
 C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\HELLO WORLD.pdb
-C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\HELLO_WORLD.Form1.resources
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\HELLO_WORLD.JANELA.resources
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\HELLO_WORLD.JANELA.aa-DJ.resources
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\HELLO_WORLD.JANELA.aa.resources
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\bin\Debug\aa-DJ\HELLO WORLD.resources.dll
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\bin\Debug\aa\HELLO WORLD.resources.dll
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\aa-DJ\HELLO WORLD.resources.dll
+C:\Users\pedro.hgaspar2\source\Repos\primeira aula de prog\Hello World\HELLO WORLD\HELLO WORLD\obj\Debug\aa\HELLO WORLD.resources.dll
